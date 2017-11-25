@@ -8,3 +8,5 @@ Simple Android activity lifecycle example to see how the lifecycle callbacks wor
 * onPause()
 * onStop()
 * onDestroy()
+
+Don't forget to check Logs.
